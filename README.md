@@ -17,7 +17,7 @@ Premium Amount: Annual premium amount paid by the customer.
 Income: Customer’s annual income.
 Marital Status: Whether the customer is married, single, etc.
 
-##Methodology
+## Methodology
 The project follows a structured approach, beginning with data understanding and preparation, followed by model development, evaluation, and explainability analysis using SHAP.
 
 1. Business Understanding
